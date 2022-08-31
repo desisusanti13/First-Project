@@ -1,0 +1,6 @@
+def luas_lingkaran(r):
+	return 3.14 * (r * r)
+r = input('masukkan jarii-jari lingkaran: ')
+lias = luas_lingkaran(int(r))
+
+print('luasnya: {}' .format(luas))
